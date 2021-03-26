@@ -1,3 +1,3 @@
 # Data analysis & machine-learning
-## supervised learning
+## 1. supervised learning
 * classification
