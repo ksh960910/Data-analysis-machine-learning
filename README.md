@@ -14,3 +14,8 @@
 > 불필요한 컬럼을 drop한 후 label encoding으로 string값을 정수형으로 바꿉니다.
 > 
 > train 셋에서 가장 높은 정확도를 보인 RandomForestClassifier로 test셋을 예측합니다
+
+## 3. breast cancer, santander 은행 고객 만족 예측
+> LightGBM을 사용하여 평가하였습니다.
+> 
+> Santander 데이터셋 같은 경우 target 값이 불균형하기 때문에 train test 셋을 분리할 때 target값의 비율이 비슷하게 나눠지기 위해 stratify 를 설정하였습니다.
