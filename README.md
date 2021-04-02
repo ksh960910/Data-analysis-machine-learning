@@ -19,3 +19,8 @@
 > LightGBM을 사용하여 평가하였습니다.
 > 
 > Santander 데이터셋 같은 경우 target 값이 불균형하기 때문에 train test 셋을 분리할 때 target값의 비율이 비슷하게 나눠지기 위해 stratify 를 설정하였습니다.
+
+## 4. 식용가능 버섯 분류
+> 분류 후 정확도, 재현율, 정밀도, f1 score 등 확인을 하였습니다
+> 
+> feature_importances_ 를 통해 모델이 학습시 어떠한 feature를 중요하다고 판단했는지 시각화 하였습니다
