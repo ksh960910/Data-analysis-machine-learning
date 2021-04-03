@@ -20,6 +20,9 @@
 ## standardscaler
 * 평균이 0 인 정규분포 형태로 만들어줌
 
+
+# Classification Evaluation metrics (분류 평가지표)
+
 ## 정밀도
 - 모델이 True라고 분류한 것 중 실제 True인 것의 비율
 
