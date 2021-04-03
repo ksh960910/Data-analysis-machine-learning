@@ -21,9 +21,6 @@
 * 평균이 0 인 정규분포 형태로 만들어줌
 
 
-
-
-
 # Classification Evaluation metrics (분류 평가지표)
 
 ## 정밀도
