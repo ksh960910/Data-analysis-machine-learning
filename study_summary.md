@@ -1,4 +1,4 @@
-# feature engineering
+# Feature engineering
 ## log 변환
 * 왜곡된 분포도를 가진 dataset을 정규분포에 가깝게 만들어줌
  * ex) 신용카드 거래 중 정상이 30만건, 사기가 500건
@@ -19,6 +19,9 @@
 
 ## standardscaler
 * 평균이 0 인 정규분포 형태로 만들어줌
+
+
+
 
 
 # Classification Evaluation metrics (분류 평가지표)
