@@ -75,3 +75,7 @@
 이진분류에서 중요한 지표
 True라고 판단했는데 실제 True / (실제 True인데 False라고 판단 + 실제 False인데 True라고 판단) 
 ROC곡선의 AUC(area under curve) 면적이 1에 가까울수록 좋은 지표이다
+
+
+# Regression 
+핵심은 주어진 feature와 target값 데이터 기반에서 학습을 통해 최적의 '회귀 계수 w'를 찾아내는 것이 
