@@ -78,4 +78,6 @@ ROC곡선의 AUC(area under curve) 면적이 1에 가까울수록 좋은 지표�
 
 
 # Regression 
-핵심은 주어진 feature와 target값 데이터 기반에서 학습을 통해 최적의 '회귀 계수 w'를 찾아내는 것이 
+핵심은 주어진 feature와 target값 데이터 기반에서 학습을 통해 최적의 '회귀 계수 w'를 찾아내는 것이다 
+
+
